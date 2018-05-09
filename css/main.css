@@ -470,7 +470,8 @@ ul{
   list-style-type: none;
 }
 #white{
-  color: white
+  color: white;
+
 }
 
 h2#white::before,h2#white::after{
@@ -478,7 +479,7 @@ h2#white::before,h2#white::after{
 }
 
 #parahead{
-  font-size: 20px
+  font-size: 25px
 }
 
 /* ==========================================================================
