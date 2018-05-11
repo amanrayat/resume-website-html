@@ -115,8 +115,8 @@ textarea {
        background-size: cover;
    }
 
-   #test4 {
-     margin-top: 5%;
+   .test4 {
+     margin: 5%;
      font-family: "Myriad";
      text-align: left;
        -webkit-background-size: cover;
@@ -126,12 +126,12 @@ textarea {
    }
 
    #project{
-     margin-bottom: 15%;
+     margin-bottom: 18%;
    }
 
    #test3 {
      background: url(https://s3.amazonaws.com/plagiarismteam208/coding4.jpg) no-repeat center center fixed ;
-    
+
      /* background: #30E8BF;  /* fallback for old browsers */
      /* background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */ */
      /* background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ */ */
@@ -146,6 +146,9 @@ textarea {
        background-size: cover;
    }
 
+.black{
+  color: black
+}
    #test5 {
      background: #fd746c;  /* fallback for old browsers */
      background: -webkit-linear-gradient(to right, #ff9068, #fd746c);  /* Chrome 10-25, Safari 5.1-6 */
